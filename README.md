@@ -4,3 +4,5 @@ cantelope
 
 mandarin 
 papaya
+tiger 
+lion
